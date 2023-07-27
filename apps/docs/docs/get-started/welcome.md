@@ -5,10 +5,10 @@ slug: /
 
 # Welcome
 
-[Typebot](https://www.typebot.io) is an open-source alternative to Landbot. It allows you to create conversational apps/forms (Lead qualification, Product launch, User onboarding, Customer support), embed them anywhere on your web/mobile apps, and collect results in real-time.
+[Chatworth](https://www.chatworth.io) is a sophisticated adaptation of the open-source Typebot platform. It empowers you to craft AI-powered conversational applications/forms for various purposes such as lead qualification, product launch, user onboarding, and customer support. These applications can be seamlessly embedded into your web/mobile apps, enabling you to gather insights in real-time.
 
-This is the Typebot documentation. It's a great place to find most answers. Please use the search box in the top right or the navigation menu (soon available) on the left-hand side to find the answers you're looking for.
+Welcome to the Chatworth documentation - your comprehensive guide to navigating our platform. To find the information you need, feel free to use the search box located in the top right corner or the soon-to-be-available navigation menu on the left-hand side.
 
-This documentation is a work in progress.
+Please note that this documentation is continually evolving, reflecting our commitment to improving and updating our platform.
 
-If you can't find what you're looking for, don't hesitate to contact me directly on the web app or at support@typebot.io.
+If you can't find the information you're seeking, we're here to help. Don't hesitate to reach out to us directly via the web app or at support@chatworth.io. We're committed to ensuring your Chatworth experience is as smooth and beneficial as possible.
