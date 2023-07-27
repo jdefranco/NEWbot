@@ -1,19 +1,19 @@
 /** @type {import('@docusaurus/types').Config} */
 module.exports = {
-  title: 'Typebot docs',
-  tagline: 'Get to Typebot next level with its documentation',
-  url: 'https://docs.typebot.io',
+  title: 'Chatworth docs',
+  tagline: 'Get moving with Chatworth and its documentation',
+  url: 'https://docs.chatworth.io',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.png',
-  organizationName: 'baptisteArno', // Usually your GitHub org/user name.
+  organizationName: 'Chatworth', // Usually your GitHub org/user name.
   themeConfig: {
     navbar: {
-      title: 'Typebot',
+      title: 'Chatworth',
       logo: {
-        alt: 'Typebot Logo',
-        src: 'img/logo.svg',
+        alt: 'Chatworth Logo',
+        src: 'img/chatworth-icon.png',
       },
       items: [
         {
@@ -27,7 +27,7 @@ module.exports = {
           position: 'left',
         },
         {
-          href: 'https://github.com/baptisteArno/typebot.io/tree/main/apps/docs',
+          href: 'https://github.com/josephdefranco/typebot.io/',
           label: 'Contribute',
           position: 'right',
         },
@@ -46,12 +46,12 @@ module.exports = {
           items: [
             {
               label: 'Homepage',
-              to: 'https://www.typebot.io',
+              to: 'https://www.chatworth.io',
             },
-            { label: 'Status', to: 'https://status.typebot.io' },
+            { label: 'Status', to: 'https://status.chatworth.io' },
             {
               label: 'Roadmap',
-              to: 'https://app.typebot.io/feedback',
+              to: 'https://app.chatworth.io/feedback',
             },
           ],
         },
@@ -60,11 +60,11 @@ module.exports = {
           items: [
             {
               label: 'Facebook Group',
-              href: 'https://www.facebook.com/groups/typebot',
+              href: 'https://www.facebook.com/groups/chatworth',
             },
             {
               label: 'Twitter',
-              href: 'https://twitter.com/Typebot_io',
+              href: 'https://twitter.com/chatworth',
             },
           ],
         },
@@ -73,11 +73,11 @@ module.exports = {
           items: [
             {
               label: 'Terms of Service',
-              href: 'https://www.typebot.io/terms-of-service',
+              href: 'https://www.chatworth.io/terms-of-service',
             },
             {
               label: 'Privacy Policy',
-              href: 'https://www.typebot.io/privacy-policies',
+              href: 'https://www.chatworth.io/privacy-policies',
             },
           ],
         },
